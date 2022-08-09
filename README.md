@@ -11,3 +11,8 @@ búsqueda, para que posteriormente pueda comparar los precios en los distintos
 Supermercados de los productos exactamente iguales. Además, que se envíe
 automáticamente al correo del usuario-consultor un reporte de precio más alto, precio más
 bajo, productos en común comparando los precios entre los supermercados coincidentes.
+
+
+## Integrantes 
+- Villanueva Melendez, Bertha Lizeth  -- 20200341
+- Yacila Aramburu , Pedro David       -- 20200342 
